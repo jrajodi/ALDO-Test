@@ -1,0 +1,6 @@
+framework module Pods_ALDO_TestTests {
+  umbrella header "Pods-ALDO-TestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
